@@ -1,0 +1,53 @@
+const Students = [{
+  "id": 1,
+  "first_name": "Cristin",
+  "last_name": "Huncoot",
+  "email": "chuncoot0@bigcartel.com"
+}, {
+  "id": 2,
+  "first_name": "Dill",
+  "last_name": "Abrashkin",
+  "email": "dabrashkin1@businessinsider.com"
+}, {
+  "id": 3,
+  "first_name": "Nealson",
+  "last_name": "Casebourne",
+  "email": "ncasebourne2@nature.com"
+}, {
+  "id": 4,
+  "first_name": "Gregg",
+  "last_name": "Freke",
+  "email": "gfreke3@yelp.com"
+}, {
+  "id": 5,
+  "first_name": "Rudy",
+  "last_name": "Nelson",
+  "email": "rnelson4@youtube.com"
+}, {
+  "id": 6,
+  "first_name": "Brett",
+  "last_name": "Apedaile",
+  "email": "bapedaile5@facebook.com"
+}, {
+  "id": 7,
+  "first_name": "Yolane",
+  "last_name": "Kearney",
+  "email": "ykearney6@yellowbook.com"
+}, {
+  "id": 8,
+  "first_name": "Shane",
+  "last_name": "Anthoney",
+  "email": "santhoney7@topsy.com"
+}, {
+  "id": 9,
+  "first_name": "Eleonora",
+  "last_name": "Dolman",
+  "email": "edolman8@histats.com"
+}, {
+  "id": 10,
+  "first_name": "Graig",
+  "last_name": "Snowding",
+  "email": "gsnowding9@ycombinator.com"
+}]
+
+module.exports = Students
